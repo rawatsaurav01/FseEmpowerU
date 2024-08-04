@@ -1,0 +1,27 @@
+{
+  "name": "fetch-api-rest-boilerplate",
+  "version": "1.0.0",
+  "description": "JavaScript provides lot of flexibility while writing programs.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js",
+    "eslint": "./node_modules/.bin/eslint *.js '**/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "chai": "^4.3.10",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^4.0.0",
+    "mocha": "^5.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}

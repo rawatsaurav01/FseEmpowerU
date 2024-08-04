@@ -1,0 +1,12 @@
+server:
+  port: 8081
+# Specify RabbitMQ configuration
+spring:
+  rabbitmq: 
+    host: localhost
+    password: guest
+    port: 15672
+    username: guest
+    exchange: employee.exchange
+    queue: employee.queue
+    routingkey: employee.routingkey

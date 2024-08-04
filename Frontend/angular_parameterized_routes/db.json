@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "grade": 10,
+      "gpa": 8.2
+    },
+    {
+      "id": 2,
+      "name": "Cena",
+      "grade": 12,
+      "gpa": 7.9
+    },
+    {
+      "id": 3,
+      "name": "Srinivas",
+      "grade": 8,
+      "gpa": 9.8
+    },
+    {
+      "id": 4,
+      "name": "Rahul",
+      "grade": 5,
+      "gpa": 9.4
+    },
+    {
+      "id": 5,
+      "name": "Kumari",
+      "grade": 12,
+      "gpa": 8.8
+    },
+    {
+      "id": 6,
+      "name": "Ramesh",
+      "grade": 6,
+      "gpa": 9
+    },
+    {
+      "id": 7,
+      "name": "Suresh",
+      "grade": 9,
+      "gpa": 6
+    },
+    {
+      "id": 8,
+      "name": "Sneha",
+      "grade": 7,
+      "gpa": 10
+    }
+  ]
+}

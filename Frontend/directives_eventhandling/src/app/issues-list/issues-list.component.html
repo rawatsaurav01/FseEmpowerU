@@ -1,0 +1,21 @@
+<div id ="issues">
+    <div class="container">  
+    <!-- Print below p tag only if content array is empty-->
+    <p *ngIf="content.length === 0">Issue list is empty!!</p>
+    <!-- write logic to ngFor Directive to iterate over arrays and display the same-->
+    <div class="row" style="display: inline-flex;">
+      <div class="column" *ngFor="let issue of content">
+        <div class="card">
+                    <div class="card-block">
+                        <!-- Use interpolation to display issue title and description-->
+                        <p>{{ issue.title }}</p>
+                        <p>{{ issue.description }}</p>
+                     </div>
+                     <!-- write logic to call deleteIssue method by passing issue id on click of button -->
+                     <button (click)="deleteIssue(issue.id)">Delete</button>
+                </div>
+            <div>
+        </div>
+    </div>
+</div>
+    

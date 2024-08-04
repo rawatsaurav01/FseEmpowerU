@@ -1,0 +1,9 @@
+<div *ngIf="teachers">
+  <h2>Teachers</h2>
+  <ul>
+    <li *ngFor="let teacher of teachers">
+      <strong>Name:</strong> {{ teacher.name }}, <strong>Grade:</strong>
+      {{ teacher.grade }}
+    </li>
+  </ul>
+</div>

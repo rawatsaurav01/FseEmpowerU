@@ -1,0 +1,79 @@
+{
+  "students": [
+    {
+      "name": "John",
+      "grade": 10,
+      "gpa": 8.2
+    },
+    {
+      "name": "Cena",
+      "grade": 12,
+      "gpa": 7.9
+    },
+    {
+      "name": "Srinivas",
+      "grade": 8,
+      "gpa": 9.8
+    },
+    {
+      "name": "Rahul",
+      "grade": 5,
+      "gpa": 9.4
+    },
+    {
+      "name": "Kumari",
+      "grade": 12,
+      "gpa": 8.8
+    },
+    {
+      "name": "Ramesh",
+      "grade": 6,
+      "gpa": 9
+    },
+    {
+      "name": "Suresh",
+      "grade": 9,
+      "gpa": 6
+    },
+    {
+      "name": "Sneha",
+      "grade": 7,
+      "gpa": 10
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Tim",
+      "grade": 10
+    },
+    {
+      "name": "Cook",
+      "grade": 12
+    },
+    {
+      "name": "Jimmy",
+      "grade": 8
+    },
+    {
+      "name": "Rinku",
+      "grade": 5
+    },
+    {
+      "name": "Sita",
+      "grade": 12
+    },
+    {
+      "name": "Raghav",
+      "grade": 6,
+      "gpa": 9
+    },
+    {
+      "name": "Ronaldo",
+      "grade": 9
+    },
+    {
+      "name": "Jude",
+      "grade": 7
+    }
+  ]
+}
