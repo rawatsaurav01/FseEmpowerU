@@ -1,0 +1,22 @@
+
+.header{
+    height: 33px;
+justify-content:space-between;
+background: brown;
+}
+ul{
+    padding: 5px;
+    text-align: right;
+}
+.header ul li {
+    display: inline-block;
+    list-style-type: none;
+    
+    margin-right: 10px;
+}
+
+li a{
+    
+    font-size: 20px;
+    color: white;
+}
